@@ -31,7 +31,7 @@ Claude Code, Cursor, 또는 다른 AI 에이전트에게 다음과 같이 요청
 ```
 Oh My OpenCode를 설치하고 설정해줘.
 한국어 가이드는 여기 있어:
-https://raw.githubusercontent.com/jealim0923-art/oh-my-opencode/refs/heads/dev/SETUP_GUIDE_KR.md
+https://raw.githubusercontent.com/jealim0923-art/oh-my-opencode/refs/heads/korean-docs/SETUP_GUIDE_KR.md
 ```
 
 ## 📖 문서

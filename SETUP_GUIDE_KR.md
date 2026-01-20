@@ -40,8 +40,9 @@ opencode --version
 가장 쉬운 방법은 Claude Code나 다른 AI 에이전트에게 설치를 요청하는 것입니다:
 
 ```
-Install and configure oh-my-opencode by following the instructions here:
-https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/refs/heads/master/docs/guide/installation.md
+Oh My OpenCode를 설치하고 설정해줘.
+한국어 가이드는 여기 있어:
+https://raw.githubusercontent.com/jealim0923-art/oh-my-opencode/refs/heads/korean-docs/SETUP_GUIDE_KR.md
 ```
 
 ### 3단계: 설정 파일 생성
@@ -66,9 +67,9 @@ AI 에이전트를 사용하여 설치하는 것이 가장 안전합니다:
 2. **다음 프롬프트를 입력합니다:**
 
 ```
-Oh My OpenCode를 설치하고 설정해줘. 
-설치 가이드는 여기 있어:
-https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/refs/heads/master/docs/guide/installation.md
+Oh My OpenCode를 설치하고 설정해줘.
+한국어 가이드는 여기 있어:
+https://raw.githubusercontent.com/jealim0923-art/oh-my-opencode/refs/heads/korean-docs/SETUP_GUIDE_KR.md
 ```
 
 ### 수동 설치
@@ -310,16 +311,17 @@ cat ~/.config/opencode/opencode.json
 
 ## 📚 추가 자료
 
-- [공식 문서](https://github.com/code-yeongyu/oh-my-opencode)
-- [기능 상세 설명](docs/features.md)
-- [설정 가이드](docs/configurations.md)
-- [Ultrawork Manifesto](docs/ultrawork-manifesto.md)
+- [한국어 저장소](https://github.com/jealim0923-art/oh-my-opencode)
+- [원본 프로젝트](https://github.com/code-yeongyu/oh-my-opencode)
+- [기능 상세 설명](https://github.com/jealim0923-art/oh-my-opencode/blob/korean-docs/docs/features.md)
+- [설정 가이드](https://github.com/jealim0923-art/oh-my-opencode/blob/korean-docs/docs/configurations.md)
+- [Ultrawork Manifesto](https://github.com/jealim0923-art/oh-my-opencode/blob/korean-docs/docs/ultrawork-manifesto.md)
 
 ## 💬 커뮤니티
 
 - [Discord](https://discord.gg/PUwSMR9XNk)
 - [X (Twitter)](https://x.com/justsisyphus)
-- [GitHub Issues](https://github.com/code-yeongyu/oh-my-opencode/issues)
+- [GitHub Issues](https://github.com/jealim0923-art/oh-my-opencode/issues)
 
 ## 🙏 기여하기
 
